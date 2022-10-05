@@ -246,7 +246,7 @@ export const abi =  [
   },
   {
     "inputs": [],
-    "name": "maxTokenId",
+    "name": "maxTokenIds",
     "outputs": [
       {
         "internalType": "uint256",
@@ -606,4 +606,4 @@ export const abi =  [
     "type": "receive"
   }
 ]
-  export const NFT_CONTRACT_ADDRESS = "0x63eCF3AbeD8bfd71B62B51461867bBB42fB77bdD"
+  export const NFT_CONTRACT_ADDRESS = "0x330D455Ad8154Dab7DCeD23A90390cC244d2eA5E"
