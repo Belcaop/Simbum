@@ -16,31 +16,6 @@ export const abi =  [
     "type": "constructor"
   },
   {
-    "inputs": [],
-    "name": "Simbiumdev__ExceededMaxSupply",
-    "type": "error"
-  },
-  {
-    "inputs": [],
-    "name": "Simbiumdev__NotEnoughEth",
-    "type": "error"
-  },
-  {
-    "inputs": [],
-    "name": "Simbiumdev__NotWhiteListed",
-    "type": "error"
-  },
-  {
-    "inputs": [],
-    "name": "Simbiumdev__PresaleNotEnded",
-    "type": "error"
-  },
-  {
-    "inputs": [],
-    "name": "Simbiumdev__PresaleNotStarted",
-    "type": "error"
-  },
-  {
     "anonymous": false,
     "inputs": [
       {
@@ -606,4 +581,4 @@ export const abi =  [
     "type": "receive"
   }
 ]
-  export const NFT_CONTRACT_ADDRESS = "0xe455f9ED2Ae39672762F16a2Cdd10FBA99217A93"
+  export const NFT_CONTRACT_ADDRESS = "0xBCE6b1972c676A79B9E23308Cca04D5bD8b3F0Fc"
