@@ -84,7 +84,7 @@ contract SimbiumDev is ERC721Enumerable, Ownable {
 
     
     function _baseURI() internal view virtual override returns (string memory) {
-        return _baseTokenURI;
+        return _baseTokenURI();
     }
 
     
